@@ -8,6 +8,7 @@
 
 ## 專案大致結構
 
+```
 src/
 ├── components/
 │   ├── SiteHeader.jsx      # 導覽列
@@ -26,6 +27,7 @@ src/
 ├── data/
 │   └── movies.js           # 電影資料
 └── App.jsx                 # 路由設定
+```
 
 ## 使用技術
 
