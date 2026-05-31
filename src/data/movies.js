@@ -128,7 +128,7 @@ export const movies = [
     image: 'https://upload.wikimedia.org/wikipedia/zh/4/4c/The_Mandalorian_and_Grogu_poster.jpg',
     dates: ['06/01 (一)', '06/02 (二)', '06/03 (三)', '06/04 (四)', '06/05 (五)'],
     times: ['12:00', '17:20', '20:00'],
-    storyline: '。劇情講述孤膽賞金獵人「丁·賈林」（曼達洛人）在收留並保護年幼的「古古」（同屬尤達大師種族）後，兩人成為銀河系中最強大且受歡迎的父子搭檔，一同四處冒險並對抗帝國殘黨。',
+    storyline: '劇情講述孤膽賞金獵人「丁·賈林」（曼達洛人）在收留並保護年幼的「古古」（同屬尤達大師種族）後，兩人成為銀河系中最強大且受歡迎的父子搭檔，一同四處冒險並對抗帝國殘黨。',
     cast: ['佩德羅·帕斯卡', '傑瑞米·艾倫·懷特'],
     duration: '2 小時 12 分鐘',
     ratingClassification: '保護級',
