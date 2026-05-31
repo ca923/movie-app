@@ -31,18 +31,18 @@ src/
 
 ## 使用技術
 
-React Router：頁面路由管理、Nested Routes
-useState：管理互動狀態、座位選擇、星星評分、表單輸入
-useEffect：處理setTimeout載入效果、監聽localStorage token變化
-localStorage：儲存登入token，重新整理後維持登入狀態
-useParams：從網址取得電影id，載入對應電影資料
-useNavigate：跳轉頁面->訂票完成後跳至成功頁
-useLocation：接收跨頁面傳遞的訂單資料、記錄登入前的來源頁面
-NavLink：導覽列連結，標示使用者目前所在頁面
-Outlet：Nested Routes的子頁面渲染位置
-RequireAuth元件：路由保護，未登入時會自動導向登入頁
-MovieCard元件：重複使用在首頁與電影列表頁
-Array.map()：將電影陣列資料渲染成畫面上的卡片列表
+- React Router：頁面路由管理、Nested Routes
+- useState：管理互動狀態、座位選擇、星星評分、表單輸入
+- useEffect：處理setTimeout載入效果、監聽localStorage token變化
+- localStorage：儲存登入token，重新整理後維持登入狀態
+- useParams：從網址取得電影id，載入對應電影資料
+- useNavigate：跳轉頁面->訂票完成後跳至成功頁
+- useLocation：接收跨頁面傳遞的訂單資料、記錄登入前的來源頁面
+- NavLink：導覽列連結，標示使用者目前所在頁面
+- Outlet：Nested Routes的子頁面渲染位置
+- RequireAuth元件：路由保護，未登入時會自動導向登入頁
+- MovieCard元件：重複使用在首頁與電影列表頁
+- Array.map()：將電影陣列資料渲染成畫面上的卡片列表
 
 ## 功能介紹
 
