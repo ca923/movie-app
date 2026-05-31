@@ -1,0 +1,35 @@
+.intro {
+    /* background-color: cornflowerblue; */
+    margin: 10px 20px;
+}
+
+.intro p {
+    cursor: default;
+    font-weight: 400;
+    color: #1E1F34;
+}
+
+h2 {
+    color: #1E1F34;
+}
+
+.img-intro {
+    width: 300px;
+    height: 450px;
+    cursor: default;
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+}
+
+.poster {
+    flex: 1;
+    text-align: center;
+}
+
+.info {
+    flex: 2;
+    padding: 10px;
+}

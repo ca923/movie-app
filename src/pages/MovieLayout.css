@@ -1,0 +1,86 @@
+h1 {
+    color: #1E1F34;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-left: 30px;
+    margin: 15px 0;
+}
+
+.dashboard {
+    margin: 20px 20px;
+}
+
+.dn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dashboard-navlink {
+    padding-left: 20px;
+    margin: 5px 0;
+}
+
+.d-btn {
+    /* background-color: #E1E5FE; */
+    text-decoration: none;
+    color: #5B6AEB;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 5px;
+    padding: 5px 10px;
+}
+
+.d-btn:hover {
+    background-color: #E1E5FE;
+    text-decoration: none;
+    color: #5B6AEB;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 5px;
+    padding: 5px 10px;
+}
+
+.d-btn.active {
+    background-color: #E1E5FE;
+    text-decoration: none;
+    color: #5B6AEB;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 5px;
+    padding: 5px 10px;
+}
+
+.d-btn-log {
+    background-color: #ffc1c1;
+    text-decoration: none;
+    color: #eb5b5b;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.d-btn-log:hover {
+    background-color: #eb5b5b;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-right: 10px;
+}

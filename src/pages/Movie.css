@@ -1,0 +1,20 @@
+.movies-page {
+    margin: 20px 20px;
+}
+
+.movies-section h2 {
+    color: #1E1F34;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-left: 30px;
+    margin-bottom: -5px;
+}
+
+.movies-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 20px;
+}
