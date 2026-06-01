@@ -29,6 +29,9 @@ src/
 └── App.jsx                 # 路由設定
 ```
 
+## wireframe
+![wireframe](assets/wireframe.png)
+
 ## 使用技術
 
 - React Router：頁面路由管理、Nested Routes
